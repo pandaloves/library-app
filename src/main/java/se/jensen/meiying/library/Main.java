@@ -1,5 +1,7 @@
 package se.jensen.meiying.library;
 
+// Övning: Modellera en biblioteksapplikation
+
 import javax.swing.*;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
